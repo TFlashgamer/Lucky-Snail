@@ -4,7 +4,7 @@
 **Игра написанная на чистом JavaScript. Изначально это была просто задачка из онлайн курса, а потом она превратилась в это.**
 
 ## Что мне нужно что-бы её запустить?
-![alt-текст](https://cdn.icon-icons.com/icons2/2845/PNG/48/npm_logo_icon_181266.png "npm") [**npm**](https://www.npmjs.com/)
+![alt-текст](https://cdn.iconscout.com/icon/free/png-48/node-js-1-1174935.png "node.js") [**node.js**](https://nodejs.org/uk/)
 
 ## Как запустить игру?
 **Запустить игру довольно просто, тем более что она находится в одном файле.**
