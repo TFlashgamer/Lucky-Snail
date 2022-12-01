@@ -502,7 +502,7 @@ async function CountWay() {
     );
     console.log("\n========================================\n");
     console.log(
-      "🎮 Игра окончена\n✔️ Вы выиграли!" + ` Всего игр: ${gamecount}`
+      "🎮 Игра окончена\n✔️ Вы выиграли!🎆" + ` Всего игр: ${gamecount}`
     );
     console.log(`🪙 Вы заработали ${coin} монет`);
     TryAgain();
