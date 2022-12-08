@@ -10,7 +10,7 @@ var red = "\x1b[31m";
 var cyan = "\x1b[36m";
 var yellow = "\x1b[33m";
 
-// Переменные для игры
+// Переменные для игры (small change)
 var day = 7;
 var night = -2;
 var count = 0;
