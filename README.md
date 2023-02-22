@@ -1,23 +1,26 @@
 [![Snail.png](https://i.postimg.cc/jqDvJGqH/Snail.png)](https://postimg.cc/JtWjfYk0)
 # Lucky-Snail
 
-**Игра написанная на чистом JavaScript. Изначально это была просто задачка из онлайн курса, а потом она превратилась в это.**
+**The game is written in pure JavaScript. Initially, it was just a puzzle from an online course, and then it turned into this.**
 
-## Что мне нужно что-бы её запустить?
+## What i need to launch it?
 ![alt-текст](https://cdn.iconscout.com/icon/free/png-48/node-js-1-1174935.png "node.js") [**node.js**](https://nodejs.org/uk/)
 
-## Как запустить игру?
-**Запустить игру довольно просто, тем более что она находится в одном файле.**
+## How to launch it?
 
-* **Скачайте файл `Snail.js` с репозитория**
-* **Откройте консоль (Желательно `Windows Terminal`, так как у него есть поддержка эмодзи и ASCII)**
-* **В консоли откройте путь куда вы сохранили файл `Snail.js`**
-* **Введите следующую команду в терминал:**
+* **Download the `Snail.js` file from the repository**
+* **Open the console (Preferably `Windows Terminal`, as it has emoji and ASCII support)**
+* **In the console, open the path where you saved the file `Snail.js`**
+* **Type the following command into the terminal:**
 
 ```
 node Snail.js
 ```
 
-## Лицензия
+## License
 
-**Если Вы хотите что-то добавить, переделать, исправить, Вы можете без проблем сделать это. [MIT License](https://choosealicense.com/licenses/mit/)**
+**If you want to add something, redo it, fix it, you can do it without any problems. [MIT License](https://choosealicense.com/licenses/mit/)**
+
+## Warning
+
+This is really-really bad code made just for fun c:
